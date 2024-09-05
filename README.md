@@ -23,7 +23,7 @@ Welcome to my GitHub space! I'm a passionate iOS developer, always eager to lear
 ### 🌐 Connect with Me:
 
 - Follow me on [GitHub](https://github.com/D0p3-C0Re) to stay updated on my latest projects.
-- Connect on [LinkedIn](https://www.linkedin.com/) (add your link) or reach out via email: [youremail@example.com].
+- Connect on [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/skupczynski/)) (add your link) or reach out via email: [s.kupczynski.buissnes@gmail.com].
 
 ### 🔥 Fun Facts:
 
